@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 🌱 Currently Learning
-React , Android , Flutter .
+React .
 
 ⚡ Keen in participating in various hackathons and coding competitions
  
