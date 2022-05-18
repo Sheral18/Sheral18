@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
  Skils acquired : HTML , CSS , Javascript, Java, C, C++ 
   
- Interest in exploring field of Web development 
+ Interest in exploring field of Web development .
+
+
 🌱 Currently Learning
 React .
 
