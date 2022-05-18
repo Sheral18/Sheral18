@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Sophomore At Vellore Institute Of Technology ,Chennai
+🔭 Student At Vellore Institute Of Technology ,Chennai
 
 
+ Skils acquired : HTML , CSS , Javascript, Java, C, C++ 
+  
+ Interest in exploring field of Web development 
 🌱 Currently Learning
 React .
+
 
 ⚡ Keen in participating in various hackathons and coding competitions
  
