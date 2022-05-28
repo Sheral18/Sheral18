@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🔭 Student At Vellore Institute Of Technology ,Chennai
 
 
- Skils acquired : HTML , CSS , Javascript, Java, C, C++ 
+ Skils acquired :Python , HTML , CSS , Javascript, Java, C, C++ 
   
  Interest in exploring field of Web development .
 
