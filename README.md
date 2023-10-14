@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 Student At Vellore Institute Of Technology ,Chennai
-
+[![An image of @sheral18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sheral18)](https://holopin.io/@sheral18)
 
  Skils acquired :Python , HTML , CSS , Javascript, Java, C, C++ 
   
